@@ -26,3 +26,7 @@ h1{
     /* position: relative; */
     /* left: 500px; */
 }
+.container button{
+    height: 30px;
+    width: 100px;
+}
