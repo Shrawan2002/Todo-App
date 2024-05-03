@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(74, 163, 240);
+    background-color:  #FFFFE0;
 }
 
 .container{
