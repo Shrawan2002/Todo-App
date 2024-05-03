@@ -30,3 +30,13 @@ h1{
     height: 30px;
     width: 100px;
 }
+
+.item{
+    display: flex;
+}
+
+.item li {
+    padding: 10px 15px 0px 0px;
+    margin: 15px;
+    
+}
